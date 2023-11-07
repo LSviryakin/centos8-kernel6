@@ -1,3 +1,4 @@
+#!/bin/sh
 yum update -y
 yum clean all
 mkdir -pm 700 /home/vagrant/.ssh
